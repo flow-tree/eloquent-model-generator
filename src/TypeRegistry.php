@@ -21,7 +21,7 @@ class TypeRegistry
         'boolean'      => 'boolean',
         'datetime'     => '\\Carbon\\Carbon',
         'datetimetz'   => '\\Carbon\\Carbon',
-        'date'         => 'string',
+        'date'         => '\\Carbon\\Carbon',
         'time'         => 'string',
         'decimal'      => 'float',
         'integer'      => 'int',
